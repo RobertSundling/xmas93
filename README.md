@@ -117,7 +117,7 @@ This is the folder you want to run. It contains the following files:
 - `xmas.pal` - Color palette file
 - `.clb` files - Sprite data (reindeer, Santa, tree, text, etc.)
 
-## Screenshots (`screenshots` folder)
+## Screenshots (`sshots` folder)
 - Screenshots of the animation in action (for use in this README)
 
 ### Source Code (`src` folder)
